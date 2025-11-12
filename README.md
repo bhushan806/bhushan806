@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,css,,html,java,js,py,ts,firebase,vercel,nodejs,react,mongodb,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,css,html,java,js,py,ts,firebase,vercel,nodejs,react,mongodb,figma,git,github" />
 </p>
 ---
 
