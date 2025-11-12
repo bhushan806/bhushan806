@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipak0000812&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dipak0000812&theme=dark&hide_border=false" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bhushan806&theme=dark&hide_border=false" alt="Streak Stats" height="180"/>
 </p>
 
 <p align="center">
@@ -53,19 +53,7 @@
 
 ---
 
-### 🚩 Top Contributed Repos
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dipak0000812&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" style="border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.3); max-width: 100%;" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dipak0000812&label=Profile%20Views&color=6A5ACD&icon=github" />
-  </a>
-</p>
 
 ---
 
